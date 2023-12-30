@@ -1,0 +1,4 @@
+keyboard==0.13.5
+PyAutoGUI==0.9.54
+pyfiglet==1.0.2
+pywin32==306
