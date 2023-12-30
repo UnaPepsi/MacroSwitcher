@@ -81,4 +81,3 @@ def on_key_event(key):
 		print("Could not run properly, perhaps corrupt/incorrectly made settings.txt")
 keyboard.hook(on_key_event)
 keyboard.wait()
-# print(hotkeys)
